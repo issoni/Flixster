@@ -24,6 +24,5 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 <img src="http://g.recordit.co/dB52B2BWQh.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
 
 I had some trouble setting up the CocoaPods for the posters. The command provided to install CocoaPods couldn't work on my end so I ended up using a different command: "sudo gem install cocoapods -v 1.7.5".
